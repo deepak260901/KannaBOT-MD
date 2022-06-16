@@ -1,4 +1,4 @@
-// M A D E  B Y  Letta - Sama 🐰  
+// M A D E  B Y  Letta - Deepak 🐰  
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
@@ -50,26 +50,26 @@ global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085712420674'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085712420674'
-global.ppulsa2 = '083143393763'
+global.pdana = '0857124206'
+global.povo = '0857124206'
+global.pgopay = '0857124206'
+global.ppulsa = '0857124206'
+global.ppulsa2 = '0831433937'
 global.psaweria = 'https://saweria.com/kannabotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283143393763'
-global.nomorown = '62831433937633'
-global.namebot = 'Kanna BOT'
+global.nomorbot = '14353391260'
+global.nomorown = '919015286428'
+global.namebot = 'GAPPU BOT'
 global.nameown = 'Letta - Sama'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['18126338970'],
-  ['62831433937633', '❦ ℒℯ𝓉𝓉𝒶 - 𝒮𝒶𝓂𝒶', true]
+  ['919015286428'],
+  ['919015286428'],
+  ['14353391260'],
+  ['919015286428', '❦ ℒℯ𝓉𝓉𝒶 - 𝒮𝒶𝓂𝒶', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,9 +114,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
+global.wm = '                「 GAPPU BOT あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘GAPPU - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ GAPPU 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
